@@ -1,0 +1,262 @@
+body{
+    background-color: white;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+
+}
+
+.container {
+   width: 50%;
+   margin: auto;
+   overflow: hidden;
+   padding-bottom: 30px;
+   margin-top: 130px;
+   background-color: #008B8B;
+  border: 1px solid black;
+  padding-inline-start: 50px;
+}
+
+
+
+
+
+#navbar {
+  background-color: coral;
+  padding: 20px 0px;
+}
+
+.together {
+float: left;
+width: 30%;
+
+
+}
+
+.score h1 {
+  font-family: sans-serif;
+  font-size: 50px;
+  line-height: 2rem;
+  color: black;
+ margin-bottom: 50px;
+ margin-left: 30px;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+
+
+.score a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+  border: 2px solid black;
+  background-color: black;
+  color: red;
+  padding: 19px 75px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.score-2 h1 {
+  font-family: sans-serif;
+  font-size: 50px;
+  line-height: 2rem;
+  color: black;
+  margin-bottom: 50px;
+  margin-left: 200px;
+}
+
+.score-2 a {
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+  border: 2px solid black;
+  background-color: black;
+  color: red;
+  padding: 20px 85px;
+  font-weight: 700;
+  text-decoration: none;
+  margin-left: 180px;
+}
+
+
+
+
+
+
+.spre button {
+  color: black;
+  border: 3px solid white;
+  background-color: white;
+  font-family: initial;
+  font-size: 16px;
+  padding: 6px 12px;
+  margin-top: 57px;
+}
+
+
+.spre-2 {
+  position: relative;
+  left: 180px;
+}
+
+
+.spre-2 button {
+  color: black;
+  border: 1px solid white;
+  background-color: white;
+  font-family: initial;
+  font-size: 16px;
+  padding: 8px 13px;
+  margin-top: 56px;
+ 
+}
+
+
+
+
+.heading {
+ display: flex;
+ padding: 20px;
+}
+
+.heading h2 {
+  font-family:  sans-serif;
+  font-size: 18px;
+  line-height: 2rem;
+
+}
+
+.heading h2 {
+  font-family:  sans-serif;
+  font-size: 18px;
+  line-height: 2rem;
+  padding-left: 20px;
+}
+
+#num-bun1 {
+  margin-top: 35px ;
+}
+
+#num-bun {
+  margin-top: 35px ;
+}
+
+.new-avi {
+ display: inline-flex;
+}
+ #num-bun {
+  color: black;
+  border: 3px solid white;
+  background-color: white;
+  font-family: initial;
+  font-size: 16px;
+  padding: 5px 5px;
+  margin-top: 50px;
+}
+
+
+#bonk-el {
+  color: black;
+  border: 3px solid white;
+  background-color: white;
+  font-family: initial;
+  font-size: 16px;
+  padding: 5px 5px;
+  margin-top: 50px;
+  margin-left: 3px;
+}
+
+
+#time-el {
+  color: black;
+  border: 3px solid white;
+  background-color: white;
+  font-family: initial;
+  font-size: 16px;
+  padding: 5px 5px;
+  margin-top: 50px;
+  margin-left: 3px;
+}
+
+#foul-el {
+  color: black;
+  border: 3px solid white;
+  background-color: white;
+  font-family: initial;
+  font-size: 16px;
+  padding: 5px 5px;
+  margin-top: 50px;
+  margin-left: 3px;
+}
+
+
+.new-2 {
+  display: inline-flex;
+  margin-left: 178px;
+ }
+
+
+
+
+ #num-bun1 {
+  color: black;
+  border: 3px solid white;
+  background-color: white;
+  font-family: initial;
+  font-size: 16px;
+  padding: 5px 5px;
+  margin-top: 50px;
+  margin-left: 3px;
+}
+
+#park-el {
+  color: black;
+  border: 3px solid white;
+  background-color: white;
+  font-family: initial;
+  font-size: 16px;
+  padding: 5px 5px;
+  margin-top: 50px;
+  margin-left: 3px;
+}
+
+
+#foul-2 {
+  color: black;
+  border: 3px solid white;
+  background-color: white;
+  font-family: initial;
+  font-size: 16px;
+  padding: 5px 5px;
+  margin-top: 50px;
+  margin-left: 3px;
+}
+
+#time-2 {
+  color: black;
+  border: 3px solid white;
+  background-color: white;
+  font-family: initial;
+  font-size: 16px;
+  padding: 5px 5px;
+  margin-top: 50px;
+  margin-left: 3px;
+}
+
+
+
+.normal {
+  font-family: Helvetica;
+  font-size: 20px;
+  margin-left: 520px;
+  margin-top: 80px;
+
+}
+
+
+
+
+
+
+
